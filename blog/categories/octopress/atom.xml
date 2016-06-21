@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
+  <link href="http://rolandych.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://rolandych.github.io/"/>
+  <updated>2016-06-21T14:07:26+08:00</updated>
+  <id>http://rolandych.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog]]></title>
+    <link href="http://rolandych.github.io/blog/2016/06/20/my-first-blog/"/>
+    <updated>2016-06-20T15:54:00+08:00</updated>
+    <id>http://rolandych.github.io/blog/2016/06/20/my-first-blog</id>
+    <content type="html"><![CDATA[<h1>欢迎访问我的Octopress博客</h1>
+
+<pre><code class="javascript">alert("Welcome to visit my Octopress blog!")
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
